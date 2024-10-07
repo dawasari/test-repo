@@ -3,6 +3,8 @@ This is a test readme file. Created during the EdCDCS Workshop on Git, GitHub, a
 
 Hello. New title.
 
+New title is not old title.
+
 ## Name
 
 My name is Resto.
